@@ -1,0 +1,18 @@
+{
+  "name": "node_b",
+  "description": "node_b",
+  "keywords": [
+    "distribution_hell"
+  ],
+  "author": "Joe Drago",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "bin": {
+    "node_b": "./node_b"
+  },
+  "dependencies": {
+    "minimist": "1.1.0"
+  }
+}
